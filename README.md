@@ -6,7 +6,7 @@ On my profile, you will find a variety of projects that I have worked on, includ
 
 - [Math-bot](https://github.com/TIMcre/Math-bot): A bot that is able to solve math questions using a data bank.
 
-- [Better Piston Control](https://github.com/TIMcre/Better-Piston-Control): A script written for the game Space Engineers that allows for improved control of pistons.
+- [Better Piston Control](https://gist.github.com/TIMcre/524fe063184c163417bb10b16bbd7b12): A script written for the game Space Engineers that allows for improved control of pistons.
 
 - [Anton.app Bot](https://github.com/TIMcre/Anton-App-Bot): A bot in development that is designed to be able to solve questions from Anton.app.
 
