@@ -10,6 +10,17 @@ On my profile, you will find a variety of projects that I have worked on, includ
 
 - [Anton.app Bot](https://github.com/TIMcre/Anton-App-Bot): A bot in development that is designed to be able to solve questions from Anton.app.
 
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TIMcre&show_icons=true&theme=dark&count_private=true)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TIMcre&layout=compact&theme=dark)
+
+## Contact
+
 I am always looking for new challenges and opportunities to learn and grow as a developer, so if you have an interesting project in mind, don't hesitate to reach out to me.
 
 I am always open to feedback and suggestions, so please feel free to contact me if you have any questions or comments about my projects. Thank you for visiting my profile, and I hope you find something here that interests you!
